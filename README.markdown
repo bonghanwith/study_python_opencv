@@ -4,16 +4,16 @@
 > tensorflow
 
 #### OpenCV-Python Tutorials [링크](https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_tutorials.html)
-##### Introduction to OpenCV : ~2018.10.05 
+##### ~~Introduction to OpenCV : ~2018.10.05~~ 
 > Learn how to setup OpenCV-Python on your computer!
 
-##### Gui Features in OpenCV : ~2018.10.05 
+##### ~~Gui Features in OpenCV : ~2018.10.05~~ 
 > Here you will learn how to display and save images and videos, control mouse events and create trackbar.
 
-##### Core Operations :~2018.10.05 
+##### ~~Core Operations :~2018.10.05~~ 
 > In this section you will learn basic operations on image like pixel editing, geometric transformations, code optimization, some mathematical tools etc.
 
-##### mage Processing in OpenCV
+##### Image Processing in OpenCV ~2018.10.13
 > In this section you will learn different image processing functions inside OpenCV.
 
 ##### Feature Detection and Description
@@ -36,6 +36,14 @@
 
 ##### OpenCV-Python Bindings
 > In this section, we will see how OpenCV-Python bindings are generated
+
+
+
+`sdfjk`
+`sdkjfasd`
+`askdjfha;sd`
+
+
 
 ##### keywords
 python, opencv, tensorflow
