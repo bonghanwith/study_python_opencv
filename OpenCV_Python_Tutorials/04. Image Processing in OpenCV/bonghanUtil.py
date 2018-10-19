@@ -1,8 +1,11 @@
-import cv2
+import cv2 as cv
 import numpy as np
 
-def showImage(image):
-    cv2.imshow('image', image)
-    cv2.waitKey(0)
-    cv2.destroyAllWindows()
-    cv2.waitKey(1)
+def showImage(image, title = 'result'):
+    cv.imshow(title, image)
+    cv.waitKey(0)
+    cv.destroyAllWindows()
+    cv.waitKey(1)
+    
+def saveImage(title, image):
+    cv.imwrite(title, image)
