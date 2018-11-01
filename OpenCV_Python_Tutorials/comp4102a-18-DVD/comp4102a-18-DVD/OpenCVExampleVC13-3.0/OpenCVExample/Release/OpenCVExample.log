@@ -1,0 +1,15 @@
+﻿Build started 12/29/2015 9:35:37 PM.
+     1>Project "S:\groth\Documents\Old-Big-PC-C\Carleton\comp4102a-16-Current\OpenCVExample\OpenCVExample\OpenCVExample.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /IC:\OpenCV3.0\build\include /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt OpenCVExample.cpp
+         OpenCVExample.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"S:\groth\Documents\Old-Big-PC-C\Carleton\comp4102a-16-Current\OpenCVExample\Release\OpenCVExample.exe" /NOLOGO /LIBPATH:C:\OpenCV3.0\build\x86\vc12\lib opencv_ts300.lib opencv_world300.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"S:\groth\Documents\Old-Big-PC-C\Carleton\comp4102a-16-Current\OpenCVExample\Release\OpenCVExample.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"S:\groth\Documents\Old-Big-PC-C\Carleton\comp4102a-16-Current\OpenCVExample\Release\OpenCVExample.lib" /MACHINE:X86 /SAFESEH Release\OpenCVExample.obj
+         Generating code
+         Finished generating code
+         OpenCVExample.vcxproj -> S:\groth\Documents\Old-Big-PC-C\Carleton\comp4102a-16-Current\OpenCVExample\Release\OpenCVExample.exe
+     1>Done Building Project "S:\groth\Documents\Old-Big-PC-C\Carleton\comp4102a-16-Current\OpenCVExample\OpenCVExample\OpenCVExample.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.78

@@ -1,4 +1,4 @@
-# Study : python opencv tensorflow
+### Study : python opencv tensorflow
 
 > 파이썬으로 opencv을 이용하여 물체 인식 방법을 배운다.  
 > tensorflow
@@ -13,7 +13,7 @@
 ##### ~~Core Operations :~2018.10.05~~ 
 > In this section you will learn basic operations on image like pixel editing, geometric transformations, code optimization, some mathematical tools etc.
 
-##### Image Processing in OpenCV ~2018.10.13
+##### ~~Image Processing in OpenCV ~2018.10.13 ~2018.10.20~~
 > In this section you will learn different image processing functions inside OpenCV.
 
 ##### Feature Detection and Description
