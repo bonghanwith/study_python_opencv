@@ -37,6 +37,7 @@
 ##### OpenCV-Python Bindings
 > In this section, we will see how OpenCV-Python bindings are generated
 
+##### jt -t grade3 -fs 12 -tfs 12 -nfs 11 -ofs 12 -cellw 980 -T -f hack -N
 
 
 `sdfjk`
